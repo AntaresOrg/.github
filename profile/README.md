@@ -8,6 +8,7 @@ Este é a Landing Page do departamento de eletrônica Antares para o github da e
  - [Neblina \[NBL\]](https://github.com/AntaresOrg/Avionica-Neblina-I)
  - [Aurora III \[AU3\]](https://github.com/AntaresOrg/-AU3-Aurora-III)
  - [Projetos Suporte \[SUP\]](https://github.com/AntaresOrg/-SUP-Projetos-Suporte)
+ - [Neblina Estação Base\[NBL\]](https://github.com/AntaresOrg/Neblina-Base_Station)
  
  # Nosso GitHub
  Nosso github esta estruturado por projetos, os quais podem ser acessador pela lista acima, cada projeto deve ter sua tag própia para facilitar o reconhecimento. Cada um desses projetos deve ter uma landing page para situar sobre o status do projeto e links para os repositórios relacionados. Por exemplo para o Aurora 3 temos o seguinte:
